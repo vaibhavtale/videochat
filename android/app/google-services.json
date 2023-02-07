@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158725972016",
+    "project_id": "getx-20ff3",
+    "storage_bucket": "getx-20ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158725972016:android:1cb2fb7372d6328b200df5",
+        "android_client_info": {
+          "package_name": "com.getx.app.db.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158725972016-gm9qapdrrg87eoffbu2oe0rpipmu5lpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2isaMPHyOp9C8ds_jOjSfY4xbLgumd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158725972016-gm9qapdrrg87eoffbu2oe0rpipmu5lpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
